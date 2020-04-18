@@ -1,0 +1,17 @@
+C:\Users\skmf7228\source\repos\RussianRoulette\RussianRouletteTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\skmf7228\source\repos\RussianRoulette\RussianRouletteTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\skmf7228\source\repos\RussianRoulette\RussianRouletteTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\skmf7228\source\repos\RussianRoulette\RussianRouletteTestProject\bin\Debug\RussianRouletteTestProject.dll
+C:\Users\skmf7228\source\repos\RussianRoulette\RussianRouletteTestProject\bin\Debug\RussianRouletteTestProject.pdb
+C:\Users\skmf7228\source\repos\RussianRoulette\RussianRouletteTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\skmf7228\source\repos\RussianRoulette\RussianRouletteTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\skmf7228\source\repos\RussianRoulette\RussianRouletteTestProject\bin\Debug\RussianRoulette.exe
+C:\Users\skmf7228\source\repos\RussianRoulette\RussianRouletteTestProject\bin\Debug\RussianRoulette.pdb
+C:\Users\skmf7228\source\repos\RussianRoulette\RussianRouletteTestProject\bin\Debug\RussianRoulette.exe.config
+C:\Users\skmf7228\source\repos\RussianRoulette\RussianRouletteTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\skmf7228\source\repos\RussianRoulette\RussianRouletteTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\skmf7228\source\repos\RussianRoulette\RussianRouletteTestProject\obj\Debug\RussianRouletteTestProject.csprojAssemblyReference.cache
+C:\Users\skmf7228\source\repos\RussianRoulette\RussianRouletteTestProject\obj\Debug\RussianRouletteTestProject.csproj.CoreCompileInputs.cache
+C:\Users\skmf7228\source\repos\RussianRoulette\RussianRouletteTestProject\obj\Debug\RussianRouletteTestProject.csproj.CopyComplete
+C:\Users\skmf7228\source\repos\RussianRoulette\RussianRouletteTestProject\obj\Debug\RussianRouletteTestProject.dll
+C:\Users\skmf7228\source\repos\RussianRoulette\RussianRouletteTestProject\obj\Debug\RussianRouletteTestProject.pdb

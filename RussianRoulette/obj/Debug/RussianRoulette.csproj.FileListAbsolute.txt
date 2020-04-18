@@ -1,0 +1,10 @@
+C:\Users\skmf7228\source\repos\RussianRoulette\RussianRoulette\obj\Debug\RussianRoulette.csprojAssemblyReference.cache
+C:\Users\skmf7228\source\repos\RussianRoulette\RussianRoulette\obj\Debug\RussianRoulette.Form1.resources
+C:\Users\skmf7228\source\repos\RussianRoulette\RussianRoulette\obj\Debug\RussianRoulette.Properties.Resources.resources
+C:\Users\skmf7228\source\repos\RussianRoulette\RussianRoulette\obj\Debug\RussianRoulette.csproj.GenerateResource.cache
+C:\Users\skmf7228\source\repos\RussianRoulette\RussianRoulette\obj\Debug\RussianRoulette.csproj.CoreCompileInputs.cache
+C:\Users\skmf7228\source\repos\RussianRoulette\RussianRoulette\bin\Debug\RussianRoulette.exe.config
+C:\Users\skmf7228\source\repos\RussianRoulette\RussianRoulette\bin\Debug\RussianRoulette.exe
+C:\Users\skmf7228\source\repos\RussianRoulette\RussianRoulette\bin\Debug\RussianRoulette.pdb
+C:\Users\skmf7228\source\repos\RussianRoulette\RussianRoulette\obj\Debug\RussianRoulette.exe
+C:\Users\skmf7228\source\repos\RussianRoulette\RussianRoulette\obj\Debug\RussianRoulette.pdb
